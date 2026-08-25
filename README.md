@@ -104,19 +104,13 @@ SET PASSWORD FOR 'root'@'localhost' = '';
    git clone https://github.com/Eduardo-Bauer/projeto_tematico_1.git
    ```
 
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd projeto_tematico_1
-   ```
-
-3. Instale as dependências:
+2. Instale as dependências:
 
    ```bash
    pip install mysql-connector-python
    ```
 
-4. Execute o aplicativo:
+3. Execute o aplicativo:
 
    ```bash
    python tela_login.py
